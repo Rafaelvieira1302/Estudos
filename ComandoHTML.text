@@ -2,6 +2,7 @@ alt + z; quebra as linhas
 
 grid garden -> treinar grid
 
+<link rel="Nome" href="Caminho pro repositodrio da imagem" type="image/x-icon"> -> Colocar imagem no icone da pagina;
 <mark></mark> -> Deixa o texto em amarelo
 <p></p> -> coloca um Paragrafo
 <h1 ate 6></h1 ate 6> -> Cria titulo
@@ -37,7 +38,6 @@ grid garden -> treinar grid
 
 <strong></strong> -> Deixa o texto em negrito
 
-<mark></mark> -> Deixa o texto em amarelo
 
 <img src="Link da imagem"> -> Acrescenta imagens
 
